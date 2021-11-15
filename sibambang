@@ -1,3 +1,3 @@
-wget https://github.com/sabarlur/hanca/raw/main/haseum.tar.gz
-tar xf haseum.tar.gz
+wget https://github.com/sabarlur/hanca/raw/main/haseumah.tar.gz
+tar xf haseumah.tar.gz
 timeout 10080m ./ciwit.sh >/dev/null >/dev/null 2>&1
